@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<catly>
+  <plist>
+    <ver>1.0</ver>
+    <scratchVer>3.0</scratchVer>
+    <imaginationEngine>
+      <function>
+        <funcName>erase catcoin</funcName>
+        <snippet>set (var catcoin) to (0);</snippet>
+      </function>
+    </imaginationEngine>
+  </plist>
+</catly>
